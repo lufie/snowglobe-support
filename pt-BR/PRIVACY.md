@@ -10,4 +10,6 @@ O rascunho e a última cena transferida ficam nos seus aparelhos. Apague o rascu
 
 Usamos o endereço e as informações do e-mail de suporte para atender à solicitação. Você pode usar o mesmo endereço para pedir acesso a essas mensagens ou a exclusão delas. Esta página é hospedada pelo GitHub, que trata as visitas de acordo com sua própria declaração de privacidade.
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

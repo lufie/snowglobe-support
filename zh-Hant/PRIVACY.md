@@ -10,4 +10,6 @@
 
 你寄出支援郵件時，我們會使用你的地址和來信內容處理請求。你可用同一地址要求存取或刪除該往來紀錄。本頁由 GitHub 託管，GitHub 依照自己的隱私聲明處理網站存取。
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

@@ -10,4 +10,6 @@
 
 지원 이메일에 포함된 주소와 내용은 요청을 처리하는 데 사용합니다. 기록의 열람이나 삭제를 같은 주소로 요청할 수 있습니다. 이 페이지는 GitHub에서 호스팅되며 접속 정보는 GitHub 개인정보 처리방침을 따릅니다.
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

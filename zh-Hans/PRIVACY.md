@@ -10,4 +10,6 @@
 
 如果你发邮件求助，我们会使用来信地址和你提供的内容处理请求。可通过同一地址申请访问或删除该往来记录。本页由 GitHub 托管，访问记录由 GitHub 按其隐私声明处理。
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

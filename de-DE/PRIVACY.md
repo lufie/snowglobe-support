@@ -10,4 +10,6 @@ Der Entwurf und die zuletzt übertragene Szene bleiben auf deinen Geräten. Entf
 
 Deine E-Mail-Adresse und die mitgesendeten Angaben verwenden wir zur Bearbeitung deiner Anfrage. Du kannst unter derselben Adresse Auskunft oder Löschung der Korrespondenz verlangen. Diese Seite wird von GitHub gehostet. Für Besuche gilt die eigene Datenschutzerklärung von GitHub.
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

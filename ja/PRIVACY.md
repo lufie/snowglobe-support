@@ -10,4 +10,6 @@
 
 お問い合わせのメールアドレスと内容は対応のために使用します。記録の開示や削除も同じ窓口にご依頼ください。このページはGitHubがホストしており、閲覧時の情報はGitHubのプライバシー声明に従います。
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

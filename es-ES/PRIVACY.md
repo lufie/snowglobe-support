@@ -10,4 +10,6 @@ El borrador y la última escena transferida se conservan en tus dispositivos. Pu
 
 Usamos tu dirección y el contenido del correo de soporte para atender tu solicitud. En esa misma dirección puedes pedir acceso a la correspondencia o su eliminación. GitHub aloja esta página y gestiona las visitas según su propia declaración de privacidad.
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

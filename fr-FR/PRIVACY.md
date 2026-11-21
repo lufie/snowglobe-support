@@ -10,4 +10,6 @@ Le brouillon et le dernier décor transféré restent sur vos appareils. Supprim
 
 L’adresse et le contenu des e-mails d’assistance servent à traiter la demande. Écrivez à la même adresse pour demander l’accès ou la suppression de cette correspondance. Cette page est hébergée par GitHub, qui traite les visites suivant sa propre déclaration de confidentialité.
 
+[support@liyijie.com](mailto:support@liyijie.com)
+
 [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)

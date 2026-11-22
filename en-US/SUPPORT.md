@@ -6,4 +6,6 @@ Open Snow Globe on Apple Watch. Swipe to switch scenes, tilt your wrist to chang
 
 If a scene is waiting to send, check that the watch is paired and Snow Globe is installed on both devices. If photo import fails, download the original in Photos and try again.
 
+Open Privacy & Data at the bottom of the iPhone studio to see how photos and music are handled and how to delete a saved scene.
+
 For help or a privacy request, email [support@liyijie.com](mailto:support@liyijie.com). Include your device models, OS versions and the step that failed. Keep personal photos and identifiers out of public issue reports.

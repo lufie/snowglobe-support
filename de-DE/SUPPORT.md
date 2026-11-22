@@ -6,4 +6,6 @@ Wische auf der Apple Watch, um die Szene zu wechseln. Kippe das Handgelenk für 
 
 Wartet eine Szene auf die Übertragung, überprüfe die Kopplung und ob Schneekugel auf beiden Geräten installiert ist. Wenn sich ein Foto nicht öffnen lässt, lade in „Fotos“ zunächst das Original herunter.
 
+Unter „Datenschutz & Daten“ unten im iPhone-Studio findest du Hinweise zu Fotos, Musik und zum Löschen gespeicherter Szenen.
+
 Für Hilfe und Datenschutzanfragen erreichst du uns unter [support@liyijie.com](mailto:support@liyijie.com). Nenne bitte Gerätemodelle, Betriebssysteme und den betroffenen Schritt. Teile keine privaten Fotos oder Kennungen in öffentlichen Fehlermeldungen.

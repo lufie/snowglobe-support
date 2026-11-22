@@ -6,4 +6,6 @@ Balayez l’écran de l’Apple Watch pour changer de décor. Inclinez le poigne
 
 Si l’envoi reste en attente, vérifiez le jumelage et l’installation de Boule à neige sur les deux appareils. Si la photo ne s’ouvre pas, téléchargez d’abord l’original dans Photos.
 
+Ouvrez « Confidentialité et données » en bas du studio sur iPhone pour savoir comment les photos et la musique sont traitées et comment supprimer une scène.
+
 Pour obtenir de l’aide ou exercer vos droits, écrivez à [support@liyijie.com](mailto:support@liyijie.com). Précisez les modèles, versions du système et l’étape concernée. Évitez de publier des photos privées ou des identifiants dans les tickets publics.

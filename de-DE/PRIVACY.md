@@ -2,11 +2,13 @@
 
 [Support](SUPPORT.md) · [Datenschutzerklärung](PRIVACY.md) · [Languages](../README.md)
 
-Die App verwendet die System-Fotoauswahl, um dein ausgewähltes Bild zu lesen. Tiefenanalyse und Szenenerstellung erfolgen auf dem iPhone. Liegt das Original in iCloud-Fotos, kann Apple es beim Auswählen herunterladen. Fertige Szenen kannst du über Apple WatchConnectivity an deine gekoppelte Apple Watch senden.
+Snow Globe verwendet nur das Foto, das du auswählst. Dein iPhone ermittelt die Tiefe und ergänzt den Hintergrund. Das Foto wird nicht an unsere Server gesendet. Die fertige Szene gelangt erst auf deine gekoppelte Apple Watch, wenn du sie dorthin sendest. Liegt das Original in iCloud-Fotos, kann Apple es bei der Auswahl herunterladen.
 
 Bewegungen des Handgelenks ändern den Blickwinkel und wirbeln Partikel auf. Die App speichert keinen Bewegungsverlauf und hat keine Konten, keine vom Entwickler betriebenen Fotoserver, keine Werbung und keine Analyse-SDKs.
 
-Der Entwurf und die zuletzt übertragene Szene bleiben auf deinen Geräten. Entferne den Entwurf im iPhone-Studio. Um alle App-Kopien zu entfernen, deinstalliere Schneekugel auf beiden Geräten. Die Originale in „Fotos“ bleiben erhalten. Die Auswahl oder das Senden kannst du jederzeit einstellen. Falls das System eine Bewegungsberechtigung anzeigt, kannst du sie in den Systemeinstellungen verwalten.
+Gespeicherte Szenen kannst du auf dem iPhone löschen. Das Original bleibt in Fotos. Eine bereits gesendete Szene bleibt auf der Apple Watch, bis du sie durch eine andere ersetzt. Um die von Snow Globe gespeicherten Kopien auf beiden Geräten zu entfernen, lösche die App auf jedem Gerät.
+
+Beim Musikimport verarbeitet dein iPhone das ausgewählte Audio. Ist Snow Globe auf deiner gekoppelten Apple Watch installiert, versucht die App, eine abspielbare Kopie dorthin zu senden. Apple wickelt Käufe und Verlängerungen ab.
 
 Deine E-Mail-Adresse und die mitgesendeten Angaben verwenden wir zur Bearbeitung deiner Anfrage. Du kannst unter derselben Adresse Auskunft oder Löschung der Korrespondenz verlangen. Diese Seite wird von GitHub gehostet. Für Besuche gilt die eigene Datenschutzerklärung von GitHub.
 

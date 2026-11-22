@@ -2,11 +2,13 @@
 
 [Asistencia](SUPPORT.md) · [Política de privacidad](PRIVACY.md) · [Languages](../README.md)
 
-La app usa el selector del sistema para leer la foto que eliges. La profundidad se analiza y la escena se crea en el iPhone. Si el original está en Fotos en iCloud, Apple puede descargarlo al seleccionarlo. Puedes enviar la escena al Apple Watch enlazado con Apple WatchConnectivity.
+Snow Globe usa solo la foto que eliges. El iPhone calcula la profundidad y completa el fondo. La foto no se sube a nuestros servidores. La escena terminada solo se transfiere al Apple Watch enlazado si decides enviarla. Si el original está en Fotos en iCloud, Apple puede descargarlo cuando lo selecciones.
 
 El movimiento de la muñeca cambia la perspectiva y agita las partículas. La app no conserva un historial de movimiento y no incluye cuentas, servidores de fotos del desarrollador, publicidad ni SDK de analítica.
 
-El borrador y la última escena transferida se conservan en tus dispositivos. Puedes borrar el borrador en el taller del iPhone. Para eliminar todas las copias de la app, desinstálala en ambos dispositivos. Los originales siguen en Fotos. Puedes dejar de elegir o enviar fotos en cualquier momento y administrar en Ajustes el permiso de movimiento que muestre el sistema.
+Puedes borrar las escenas guardadas en el iPhone. La foto original se queda en Fotos. Una escena que ya has enviado permanece en el Apple Watch hasta que la sustituyas enviando otra. Para eliminar las copias guardadas por Snow Globe en ambos dispositivos, borra la app en cada uno de ellos.
+
+Al importar música, el iPhone procesa el audio elegido. Si Snow Globe está instalado en el Apple Watch enlazado, la app intenta enviarle una copia que se pueda reproducir. Apple gestiona las compras y renovaciones.
 
 Usamos tu dirección y el contenido del correo de soporte para atender tu solicitud. En esa misma dirección puedes pedir acceso a la correspondencia o su eliminación. GitHub aloja esta página y gestiona las visitas según su propia declaración de privacidad.
 
